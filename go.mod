@@ -1,4 +1,4 @@
-module github.com/raimis/antigravity-whatsapp
+module github.com/USA-graphene/antigravity-whatsapp
 
 go 1.25.0
 

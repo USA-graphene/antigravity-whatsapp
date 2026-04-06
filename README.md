@@ -35,7 +35,7 @@
 
 ```bash
 # Clone
-git clone https://github.com/raimis/antigravity-whatsapp.git
+git clone https://github.com/USA-graphene/antigravity-whatsapp.git
 cd antigravity-whatsapp
 
 # Configure
@@ -53,7 +53,7 @@ On first run, scan the QR code with WhatsApp → **Linked Devices** → **Link a
 ### Or install directly
 
 ```bash
-go install github.com/raimis/antigravity-whatsapp@latest
+go install github.com/USA-graphene/antigravity-whatsapp@latest
 ```
 
 ---
